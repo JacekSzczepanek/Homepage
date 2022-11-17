@@ -15,7 +15,10 @@ The website uses technologies and conventions:
 - BEM
 - camelCase
 
-## Screen shots:
-
 ## link
  https://jacekszczepanek.github.io/Homepage/
+
+## Screenshots:
+ ![dark](https://raw.githubusercontent.com/JacekSzczepanek/Homepage/main/Screenshots/dark.jpg)
+ ![light](https://raw.githubusercontent.com/JacekSzczepanek/Homepage/main/Screenshots/light.jpg)
+
