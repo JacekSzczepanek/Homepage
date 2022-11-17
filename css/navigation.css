@@ -1,5 +1,9 @@
 .navigation {
     list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: wrap;
 }
 .navigation__item {
     margin: 10px o;
