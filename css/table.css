@@ -1,8 +1,7 @@
-.table {
+.table__body {
     border-collapse: collapse;
     margin: 50px;
     width: 100%;
-    overflow-x: auto;
 }
 .table__cell {
     border: 1px solid #ccc;
@@ -23,4 +22,7 @@
 }
 .table__row:hover {
     background: rgb(188, 174, 162);
+}
+.table {
+    overflow-x: auto;
 }

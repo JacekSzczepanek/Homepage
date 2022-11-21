@@ -12,6 +12,7 @@ html {
     font-family: "Lato", sans-serif;
     color: black;
     background-color: #eee;
+    text-align: center;
 }
 .dark {
     color: white;

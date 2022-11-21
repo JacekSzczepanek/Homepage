@@ -9,13 +9,13 @@
     margin: 10px o;
 }
 .navigation__link {
-    background-color: rgba(76, 39, 5, 0.769);
+    background-color: rgb(255, 255, 255);
     border: 6px;
     border-color: black;
     text-decoration: none;
     height: 45px;
     line-height: 1.5;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 24px;
     padding: 5px 10px;
     text-align: center;
